@@ -1,0 +1,1 @@
+This project is inspired by a project in a class I took where I had to predict the selling prices of houses in King County (Seattle area). Since I live in the Johnson County (Kansas) area, I decided it would be interesting to do a similar thing.
